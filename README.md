@@ -4,7 +4,7 @@
 
   <p align="center">
    I've created this portfolio website using HTML, CSS and javascript. 
-Its still very basic and needs a lot of updation but I'm still putting it out here and will continue committing changes as and when I can.
+Its still very basic and needs a lot of updation but I'm putting it out here and will continue committing changes as and when I can.
     <br />
   </p>
 </div>
